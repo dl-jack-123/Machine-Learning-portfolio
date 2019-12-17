@@ -36,7 +36,10 @@
 -  GoogleLeNet implemented
 
 
--  ResNet implemented
+-  ResNet-18 implemented
+
+
+-  ResNet-32 implemented
 
 	
 	
