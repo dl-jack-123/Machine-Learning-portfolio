@@ -1,4 +1,6 @@
 # Machine-Learning-portfolio
+This portfolio contains all of the supervised and unsupervised Machine Learning and Deep Learning topics that I've covered.
+
 
 **Table of Contents**
 -	[Deep Learning](#deep-learning)
@@ -41,6 +43,11 @@
 
 -  ResNet-32 implemented
 
+
+
+### About me
+
+For any suggestion regarding the content of the portfolio, or for a collaboration proposal, please do not hesistate to send me an email: jick1550443@gmail.com
 	
 	
 
