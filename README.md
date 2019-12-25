@@ -5,6 +5,9 @@ This portfolio contains all of the supervised and unsupervised Machine Learning 
 **Table of Contents**
 -	[Deep Learning](#deep-learning)
 	-	*[AOI](#AOI)*
+	-	*[GAN](#GAN)*
+-	[Machine learning](#Machine Learning)
+	-	*[DHI](#DHI)*
 -	[About me](#About-me)
 
 
@@ -43,6 +46,20 @@ This portfolio contains all of the supervised and unsupervised Machine Learning 
 
 
 -  ResNet-32 implemented
+
+### GAN
+
+## Machine Learning
+
+###  DHI
+1.This issue uses the Dairy Herd Improvement (DHI) database provided by the Republic of Taiwan Dairy Industry Association to predict the amount of milk produced by pastures in different regions of Taiwan. 
+Hope that participants can grasp the key to predicting milk production and provider [aidea-DHI](https://aidea-web.tw/topic/a7cead35-c5ee-460d-b5cc-b92b46739fff)
+
+2.Assessment with Root-Mean-Square Error, RMSE
+
+3.This notebook predict score RMSE = 6.83
+
+
 
 
 
