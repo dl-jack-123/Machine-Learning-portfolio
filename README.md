@@ -6,7 +6,7 @@ This portfolio contains all of the supervised and unsupervised Machine Learning 
 -	[Deep Learning](#deep-learning)
 	-	*[AOI](#AOI)*
 	-	*[GAN](#GAN)*
--	[Machine learning](#Machine Learning)
+-	[Machine Learning](#Machine Learning)
 	-	*[DHI](#DHI)*
 -	[About me](#About-me)
 
@@ -59,8 +59,14 @@ Hope that participants can grasp the key to predicting milk production and provi
 
 3.This notebook predict score RMSE = 6.83
 
+###  Marine Debris
+1.Marine debris is a major pollution issue of global concern, and scientific research has shown that man-made garbage has caused major ecological and economic impacts that are difficult to recover.
 
+2.provider [THE SOCIETY OF WILDERNESS](https://www.sow.org.tw)
 
+3.Assessment wtih [Cohen's kappa](https://en.wikipedia.org/wiki/Cohen%27s_kappa#Weighted_kappa)
+
+4.Current predict scort is 0.57
 
 
 ## About me
