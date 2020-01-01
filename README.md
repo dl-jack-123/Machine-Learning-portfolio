@@ -6,8 +6,12 @@ This portfolio contains all of the supervised and unsupervised Machine Learning 
 -	[Deep Learning](#deep-learning)
 	-	*[AOI](#AOI)*
 	-	*[GAN](#GAN)*
--	[Machine Learning](#Machine Learning)
+	
+-	[Machine Learning](#Machine-Learning)
 	-	*[DHI](#DHI)*
+	
+-	[vedio-compression](#vedio-compression)
+	-	*[JPEG](#JPEG)*
 -	[About me](#About-me)
 
 
@@ -18,7 +22,7 @@ This portfolio contains all of the supervised and unsupervised Machine Learning 
 
 ### AOI
 
-1.using Machine Learning Models implement Data from [Aidea](https://aidea-web.tw/topic/a49e3f76-69c9-4a4a-bcfc-c882840b3f27)
+1.using Machine Learning Models with pytorch tool implement Data from [Aidea](https://aidea-web.tw/topic/a49e3f76-69c9-4a4a-bcfc-c882840b3f27)
 
 - CNN implemented 
 	[Pytorch](https://github.com/jick155/Machine-Learning-portfolio/blob/master/AOI%20Model/AOI%20Machine%20learning-CNN.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/jick155/Machine-Learning-portfolio/blob/master/AOI%20Model/AOI%20Machine%20learning-CNN.ipynb)
@@ -59,6 +63,11 @@ Hope that participants can grasp the key to predicting milk production and provi
 
 3.This notebook predict score RMSE = 6.83
 
+### vedio- compression
+
+## [JPEG](https://github.com/jick155/Machine-Learning-portfolio/blob/master/vedio_compression/JPEG_Encoding_decoding.ipynb)
+1. Using python implement JPEG vedio compression encoding and decoding file
+
 ###  Marine Debris
 1.Marine debris is a major pollution issue of global concern, and scientific research has shown that man-made garbage has caused major ecological and economic impacts that are difficult to recover.
 
@@ -66,7 +75,7 @@ Hope that participants can grasp the key to predicting milk production and provi
 
 3.Assessment wtih [Cohen's kappa](https://en.wikipedia.org/wiki/Cohen%27s_kappa#Weighted_kappa)
 
-4.Current predict scort is 0.57
+4.Current predict scort is 0.67. (The First score=0.8)
 
 
 ## About me
