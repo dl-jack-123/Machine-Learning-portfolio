@@ -12,6 +12,7 @@ This portfolio contains all of the supervised and unsupervised Machine Learning 
 	
 -	[vedio-compression](#vedio-compression)
 	-	*[JPEG](#JPEG)*
+	
 -	[About me](#About-me)
 
 
@@ -63,12 +64,9 @@ Hope that participants can grasp the key to predicting milk production and provi
 
 3.This notebook predict score RMSE = 6.83
 
-### vedio- compression
-
-## [JPEG](https://github.com/jick155/Machine-Learning-portfolio/blob/master/vedio_compression/JPEG_Encoding_decoding.ipynb)
-1. Using python implement JPEG vedio compression encoding and decoding file
 
 ###  Marine Debris
+
 1.Marine debris is a major pollution issue of global concern, and scientific research has shown that man-made garbage has caused major ecological and economic impacts that are difficult to recover.
 
 2.provider [THE SOCIETY OF WILDERNESS](https://www.sow.org.tw)
@@ -76,6 +74,14 @@ Hope that participants can grasp the key to predicting milk production and provi
 3.Assessment wtih [Cohen's kappa](https://en.wikipedia.org/wiki/Cohen%27s_kappa#Weighted_kappa)
 
 4.Current predict scort is 0.67. (The First score=0.8)
+
+
+## vedio-compression
+
+### [JPEG](https://github.com/jick155/Machine-Learning-portfolio/blob/master/vedio_compression/JPEG_Encoding_decoding.ipynb)
+1. Using python implement JPEG vedio compression encoding and decoding file
+
+
 
 
 ## About me
