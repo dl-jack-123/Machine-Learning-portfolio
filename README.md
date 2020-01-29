@@ -54,7 +54,7 @@ This portfolio contains all of the supervised and unsupervised Machine Learning 
 
 ### GAN
 
--	[ACGAN]()
+
 ## Machine Learning
 
 ###  DHI
@@ -86,7 +86,7 @@ Hope that participants can grasp the key to predicting milk production and provi
 
 
 ## About me
-熱衷於探索新事物，並將開發上的新鮮事紀錄在 [Medium](https://medium.com/%E8%B3%87%E5%B7%A5%E7%AD%86%E8%A8%98) 。
+[my_Medium](https://medium.com/%E8%B3%87%E5%B7%A5%E7%AD%86%E8%A8%98) 。
 
 For any suggestion regarding the content of the portfolio, or for a collaboration proposal, please do not hesistate to send me an email: jick1550443@gmail.com
 	
